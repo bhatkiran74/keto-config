@@ -2,7 +2,7 @@ build:
   version: "1.0.2"
 
 card:
-  message: "Hello from Cards microservice successfully"
+  message: "Hello World !!! I created Microservice for Cards"
   name: "Kiransing bhat"
   company: "TCS"
   contact:

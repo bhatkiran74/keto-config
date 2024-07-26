@@ -2,7 +2,7 @@ build:
   version: "1.0.2"
 
 account:
-  message: "Hello from Account microservice successfully"
+  message: "Hello World !!! I created Microservice for Account"
   name: "{cipher}f0280d12adc9420d46408fdfb2b24bd0f9b52af7a0f8f5a7c8ef155f597a257b"
   company: "TCS"
   contact:
