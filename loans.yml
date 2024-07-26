@@ -4,7 +4,7 @@ build:
 
 
 loan:
-  message: "Hello from Loans microservice"
+  message: "Hello from Loans microservice successfully"
   name: "Kiransing bhat"
   company: "TCS"
   contact:
