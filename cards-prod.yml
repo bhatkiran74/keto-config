@@ -2,7 +2,7 @@ build:
   version: "3.0.2"
 
 card:
-  message: "Hello !!!! Cards microservice for PROD "
+  message: "Hello !!!! Cards microservice for Production "
   name: "Kiransing bhat"
   company: "CNA"
   contact:
