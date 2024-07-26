@@ -2,7 +2,7 @@ build:
   version: "2.0.2"
 
 card:
-  message: "Hello !!!! Cards microservice for QA "
+  message: "Hello !!!! Cards microservice for Quality Assurance "
   name: "Kiransing bhat"
   company: "SLK"
   contact:

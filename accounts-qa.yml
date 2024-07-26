@@ -3,7 +3,7 @@ build:
   version: "2.0.2"
 
 account:
-  message: "Hello !!!! Account microservice for QA "
+  message: "Hello !!!! Account microservice for Quality Assurance "
   name: "Kiransing bhat"
   company: "SLK"
   contact:
