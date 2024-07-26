@@ -2,7 +2,7 @@ build:
   version: "3.0.2"
 
 loan:
-  message: "Hello !!!! Loans microservice for Production "
+  message: "Hello !!!! Loans microservice for PROD "
   name: "Kiransing bhat"
   company: "CNA"
   contact:
