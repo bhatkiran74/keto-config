@@ -2,7 +2,7 @@ build:
   version: "2.0.2"
 
 loan:
-  message: "Hello !!!! Loans microservice for Quality Assurance "
+  message: "Hello !!!! Loans microservice for QA "
   name: "Kiransing bhat"
   company: "SLK"
   contact:
