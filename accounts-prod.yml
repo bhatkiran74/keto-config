@@ -2,7 +2,7 @@ build:
   version: "3.0.2"
 
 account:
-  message: "Hello !!!! Account microservice for Production "
+  message: "Hello !!!! Account microservice for PROD "
   name: "Kiransing bhat"
   company: "CNA"
   contact:
